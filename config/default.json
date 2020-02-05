@@ -14,6 +14,13 @@
       "jwt",
       "local"
     ],
+    "oauth": {
+      "redirect": "/",
+      "github": {
+        "key": "ea81e4df63d5e709aebf",
+        "secret": "90ff029f3a5597decd2dbd1db9908fe6b1048376"
+      }
+    },
     "jwtOptions": {
       "header": {
         "typ": "access"
